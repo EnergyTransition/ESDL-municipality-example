@@ -935,7 +935,7 @@
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WIItoqesEeiVjv9GXslO6g"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_WHnwQaesEeiVjv9GXslO6g" fontName="Segoe UI" fontHeight="6" italic="true"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WHnwQqesEeiVjv9GXslO6g" width="100" height="30"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WHnwQqesEeiVjv9GXslO6g" x="1516" y="34" width="100" height="30"/>
                     </children>
                     <children xmi:type="notation:Node" xmi:id="_WIBY4KesEeiVjv9GXslO6g" type="3007" element="_WFykQKesEeiVjv9GXslO6g">
                       <children xmi:type="notation:Node" xmi:id="_WIB_8KesEeiVjv9GXslO6g" type="5003">
@@ -946,7 +946,7 @@
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WIItpaesEeiVjv9GXslO6g"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_WIBY4aesEeiVjv9GXslO6g" fontName="Segoe UI" fontHeight="6" italic="true"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WIBY4qesEeiVjv9GXslO6g" width="100" height="30"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WIBY4qesEeiVjv9GXslO6g" x="1375" y="34" width="100" height="30"/>
                     </children>
                     <styles xmi:type="notation:SortingStyle" xmi:id="_KqtpIabdEeiwbIIBZ7Iefw"/>
                     <styles xmi:type="notation:FilteringStyle" xmi:id="_KqtpIqbdEeiwbIIBZ7Iefw"/>
@@ -2498,18 +2498,24 @@
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
-          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_WFozQKesEeiVjv9GXslO6g" name="SolarParc2Profile" incomingEdges="_WGvmgKesEeiVjv9GXslO6g" width="10" height="3" resizeKind="NSEW">
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_WFozQKesEeiVjv9GXslO6g" name="SolarParc1Profile" incomingEdges="_WGvmgKesEeiVjv9GXslO6g" width="10" height="3" resizeKind="NSEW">
             <target xmi:type="esdl:InfluxDBProfile" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@instance.0/@area/@area.0/@asset.1/@port.1/@profile"/>
             <semanticElements xmi:type="esdl:InfluxDBProfile" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@instance.0/@area/@area.0/@asset.1/@port.1/@profile"/>
+            <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+            <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+            <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
             <ownedStyle xmi:type="diagram:Square" xmi:id="_WFu54KesEeiVjv9GXslO6g" labelSize="6" showIcon="false" labelPosition="node" width="10" height="3" color="255,245,181">
               <labelFormat>italic</labelFormat>
               <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='GenericProfileNode']/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='GenericProfileNode']"/>
           </ownedDiagramElements>
-          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_WFykQKesEeiVjv9GXslO6g" name="SolarParc2Profiel" incomingEdges="_WGyCwKesEeiVjv9GXslO6g" width="10" height="3" resizeKind="NSEW">
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_WFykQKesEeiVjv9GXslO6g" name="SolarParc2Profile" incomingEdges="_WGyCwKesEeiVjv9GXslO6g" width="10" height="3" resizeKind="NSEW">
             <target xmi:type="esdl:InfluxDBProfile" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@instance.0/@area/@area.0/@asset.2/@port.1/@profile"/>
             <semanticElements xmi:type="esdl:InfluxDBProfile" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@instance.0/@area/@area.0/@asset.2/@port.1/@profile"/>
+            <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+            <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+            <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
             <ownedStyle xmi:type="diagram:Square" xmi:id="_WFykQaesEeiVjv9GXslO6g" labelSize="6" showIcon="false" labelPosition="node" width="10" height="3" color="255,245,181">
               <labelFormat>italic</labelFormat>
               <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='GenericProfileNode']/@style"/>
