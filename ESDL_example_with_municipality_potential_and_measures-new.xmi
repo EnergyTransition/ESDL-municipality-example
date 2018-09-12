@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<esdl:EnergySystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:esdl="http://www.tno.nl/esdl/1807" xsi:schemaLocation="http://www.tno.nl/esdl/1807 ../esdl/model/esdl.ecore" name="ESDL Voorbeeld Gemeente XXX" description="Voorbeeld voor ESDL beschrijving van een gemeente op een redelijk hoog abstractieniveau">
+<esdl:EnergySystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:esdl="http://www.tno.nl/esdl/1809" xsi:schemaLocation="http://www.tno.nl/esdl/1809 ../esdl/model/esdl.ecore" name="ESDL Voorbeeld Gemeente XXX" description="Voorbeeld voor ESDL beschrijving van een gemeente op een redelijk hoog abstractieniveau">
   <sector>GEBOUWDE_OMGEVING</sector>
   <measures>
-    <measure xsi:type="esdl:WindTurbine" id="WT3MWSEA1" name="WindTurbine 3MW at Sea" shortName="WT3MWSEA" description="" fullLoadHours="6000" power="3000000.0" rotorDiameter="50.0" height="100.0">
-      <costInformation costUnit="MONEY_IN_EUR">
+    <asset xsi:type="esdl:WindTurbine" id="WT3MWSEA1" name="WindTurbine 3MW at Sea" shortName="WT3MWSEA" description="" fullLoadHours="6000" power="3000000.0" rotorDiameter="50.0" height="100.0">
+      <costInformation>
         <investmentCosts xsi:type="esdl:SingleValue" name="Investment costs wind turbine at sea" id="ICWTAS" value="1.2E7"/>
       </costInformation>
-    </measure>
-    <measure xsi:type="esdl:GeothermalSource" id="GTS1" name="Geothermal Source" shortName="GTS" description="Geothermal Source" fullLoadHours="8600" geothermalSourceType="HEAT" COP="30.0" aquiferTemperature="90.0" outputPower="1.2E7">
-      <costInformation costUnit="MONEY_IN_EUR">
+    </asset>
+    <asset xsi:type="esdl:GeothermalSource" id="GTS1" name="Geothermal Source" shortName="GTS" description="Geothermal Source" fullLoadHours="8600" geothermalSourceType="HEAT" COP="30.0" aquiferTemperature="90.0" outputPower="1.2E7">
+      <costInformation>
         <investmentCosts xsi:type="esdl:SingleValue" name="Investment costs geothermal source" id="ICGTS" value="1.5E7"/>
       </costInformation>
-    </measure>
+    </asset>
   </measures>
   <instance id="Inst1" name="EnergieSysteemInstantie" description="" detailLevel="MUNICIPALITY">
     <area id="ARR1" name="Region 1" scope="REGION" potentials="GPA">

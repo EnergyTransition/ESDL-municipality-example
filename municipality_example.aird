@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:esdl="http://www.tno.nl/esdl/1807" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.tno.nl/esdl/1807 platform:/resource/esdl/model/esdl.ecore http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:esdl="http://www.tno.nl/esdl/1809" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.tno.nl/esdl/1809 platform:/resource/esdl/model/esdl.ecore http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
   <viewpoint:DAnalysis xmi:id="_08J-EF22EeiXwpiVxf2smg" selectedViews="_hw70cF24EeiXwpiVxf2smg" version="13.0.0.201804031646">
     <semanticResources>ESDL_example_with_municipality_potential_and_measures-new.xmi</semanticResources>
     <semanticResources>platform:/resource/esdl.design/description/esdl.odesign</semanticResources>
@@ -59,9 +59,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq3aIabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq3aIqbdEeiwbIIBZ7Iefw" x="36" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4VgoKbhEei7To2Sn3Vkgg" type="3003" element="_fzPlQKbhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4VgoabhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4VgoqbhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLJ5kLaPEeiGO6ATZaJdfg" type="3003" element="_fABnoLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLJ5kbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLJ5kraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_Kqx6rKbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kqx6rabdEeiwbIIBZ7Iefw" x="31" y="169" width="120" height="40"/>
@@ -92,9 +92,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq7rkabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq7rkqbdEeiwbIIBZ7Iefw" x="48" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="__aHHcKe0EeiXaPBKk6WgHQ" type="3003" element="__YSigKe0EeiXaPBKk6WgHQ">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="__aHHcae0EeiXaPBKk6WgHQ" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aHHcqe0EeiXaPBKk6WgHQ"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLVfwLaPEeiGO6ATZaJdfg" type="3003" element="_fAdFcLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLVfwbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLVfwraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_KqzvwabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KqzvwqbdEeiwbIIBZ7Iefw" x="31" y="97" width="120" height="40"/>
@@ -125,9 +125,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq7rpKbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq7rpabdEeiwbIIBZ7Iefw" x="48" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4Vgo6bhEei7To2Sn3Vkgg" type="3003" element="_f0C2gKbhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4VgpKbhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4VgpabhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLWG0LaPEeiGO6ATZaJdfg" type="3003" element="_fBK3ILaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLWG0baPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLWG0raPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_KqzvxqbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kqzvx6bdEeiwbIIBZ7Iefw" x="175" y="237" width="120" height="40"/>
@@ -158,9 +158,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq7rt6bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq7ruKbdEeiwbIIBZ7Iefw" x="48" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4VgpqbhEei7To2Sn3Vkgg" type="3003" element="_f0C2gabhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4Vgp6bhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4VgqKbhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLWt4LaPEeiGO6ATZaJdfg" type="3003" element="_fBrNcLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLWt4baPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLWt4raPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_Kqzvy6bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KqzvzKbdEeiwbIIBZ7Iefw" x="175" y="168" width="120" height="40"/>
@@ -191,9 +191,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq7ryqbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq7ry6bdEeiwbIIBZ7Iefw" x="36" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="__aHugKe0EeiXaPBKk6WgHQ" type="3003" element="__YmrkKe0EeiXaPBKk6WgHQ">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="__aHugae0EeiXaPBKk6WgHQ" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aHugqe0EeiXaPBKk6WgHQ"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLXU8LaPEeiGO6ATZaJdfg" type="3003" element="_fCBywLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLXU8baPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLXU8raPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq0W0abdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq0W0qbdEeiwbIIBZ7Iefw" x="175" y="97" width="120" height="40"/>
@@ -255,9 +255,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrE1gabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrE1gqbdEeiwbIIBZ7Iefw" x="48" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4VgqabhEei7To2Sn3Vkgg" type="3003" element="_f0_4wKbhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4VgqqbhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4Vgq6bhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLX8ALaPEeiGO6ATZaJdfg" type="3003" element="_fCXJ8LaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLX8AbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLX8AraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq7r2KbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq7r2abdEeiwbIIBZ7Iefw" x="39" y="154" width="120" height="40"/>
@@ -288,9 +288,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrE1lKbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrE1labdEeiwbIIBZ7Iefw" x="36" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="__aIVkKe0EeiXaPBKk6WgHQ" type="3003" element="__Yn5sKe0EeiXaPBKk6WgHQ">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="__aIVkae0EeiXaPBKk6WgHQ" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aIVkqe0EeiXaPBKk6WgHQ"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLYjELaPEeiGO6ATZaJdfg" type="3003" element="_fCYYELaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLYjEbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLYjEraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq7r3abdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq7r3qbdEeiwbIIBZ7Iefw" x="39" y="82" width="120" height="40"/>
@@ -321,9 +321,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrIf6abdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrIf6qbdEeiwbIIBZ7Iefw" x="48" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4fRoKbhEei7To2Sn3Vkgg" type="3003" element="_f0_4wabhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRoabhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRoqbhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLZKILaPEeiGO6ATZaJdfg" type="3003" element="_fCaNQLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLZKIbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLZKIraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq7r4qbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq7r46bdEeiwbIIBZ7Iefw" x="183" y="249" width="120" height="40"/>
@@ -354,9 +354,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrKVEabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrKVEqbdEeiwbIIBZ7Iefw" x="48" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4fRo6bhEei7To2Sn3Vkgg" type="3003" element="_f0_4wqbhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRpKbhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRpabhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLZxMLaPEeiGO6ATZaJdfg" type="3003" element="_fCcpgLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLZxMbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLZxMraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq7r56bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq7r6KbdEeiwbIIBZ7Iefw" x="183" y="153" width="120" height="40"/>
@@ -387,9 +387,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrLjMabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrLjMqbdEeiwbIIBZ7Iefw" x="36" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="__aIVk6e0EeiXaPBKk6WgHQ" type="3003" element="__YogwKe0EeiXaPBKk6WgHQ">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="__aIVlKe0EeiXaPBKk6WgHQ" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aIVlae0EeiXaPBKk6WgHQ"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLaYQLaPEeiGO6ATZaJdfg" type="3003" element="_fCdQkLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLaYQbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLaYQraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_Kq7r7KbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kq7r7abdEeiwbIIBZ7Iefw" x="183" y="82" width="120" height="40"/>
@@ -451,9 +451,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrPNk6bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrPNlKbdEeiwbIIBZ7Iefw" x="56" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4fRpqbhEei7To2Sn3Vkgg" type="3003" element="_f1JpwKbhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRp6bhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRqKbhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLa_ULaPEeiGO6ATZaJdfg" type="3003" element="_fCnBkLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLa_UbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLa_UraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_KrMKSqbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrMKS6bdEeiwbIIBZ7Iefw" x="39" y="166" width="120" height="40"/>
@@ -484,9 +484,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrP0r6bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrP0sKbdEeiwbIIBZ7Iefw" x="48" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="__aI8oKe0EeiXaPBKk6WgHQ" type="3003" element="__Ypu4Ke0EeiXaPBKk6WgHQ">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="__aI8oae0EeiXaPBKk6WgHQ" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aI8oqe0EeiXaPBKk6WgHQ"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLbmYLaPEeiGO6ATZaJdfg" type="3003" element="_fCoPsLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLbmYbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLbmYraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_KrMKT6bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrMKUKbdEeiwbIIBZ7Iefw" x="39" y="94" width="120" height="40"/>
@@ -517,9 +517,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrP0wqbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrP0w6bdEeiwbIIBZ7Iefw" x="72" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="__aJjsKe0EeiXaPBKk6WgHQ" type="3003" element="__Ypu4ae0EeiXaPBKk6WgHQ">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="__aJjsae0EeiXaPBKk6WgHQ" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aJjsqe0EeiXaPBKk6WgHQ"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLcNcLaPEeiGO6ATZaJdfg" type="3003" element="_fCpd0LaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLcNcbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLcNcraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_KrMKVKbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrMKVabdEeiwbIIBZ7Iefw" x="207" y="95" width="120" height="40"/>
@@ -550,9 +550,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrP01abdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrP01qbdEeiwbIIBZ7Iefw" x="56" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4fRqabhEei7To2Sn3Vkgg" type="3003" element="_f1UB0KbhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRqqbhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRq6bhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLc0gLaPEeiGO6ATZaJdfg" type="3003" element="_fDP6wLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLc0gbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLc0graPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_KrMKWabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrMKWqbdEeiwbIIBZ7Iefw" x="207" y="166" width="120" height="40"/>
@@ -583,9 +583,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrP06KbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrP06abdEeiwbIIBZ7Iefw" x="56" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4fRrKbhEei7To2Sn3Vkgg" type="3003" element="_f1eZ4KbhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRrabhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRrqbhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLdbkLaPEeiGO6ATZaJdfg" type="3003" element="_fD1JkLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLdbkbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLdbkraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_KrMKXqbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrMKX6bdEeiwbIIBZ7Iefw" x="207" y="230" width="120" height="40"/>
@@ -627,9 +627,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrP1AKbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrP1AabdEeiwbIIBZ7Iefw" x="-2" y="10" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4fRr6bhEei7To2Sn3Vkgg" type="3003" element="_f1oK4KbhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRsKbhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRsabhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLfQwLaPEeiGO6ATZaJdfg" type="3003" element="_fETDoLaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLfQwbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLfQwraPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_KrN_c6bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrN_dKbdEeiwbIIBZ7Iefw" x="364" y="230" width="120" height="40"/>
@@ -660,9 +660,9 @@
                             <styles xmi:type="notation:ShapeStyle" xmi:id="_KrP1FqbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrP1F6bdEeiwbIIBZ7Iefw" x="59" y="-2" width="10" height="10"/>
                           </children>
-                          <children xmi:type="notation:Node" xmi:id="_f4fRsqbhEei7To2Sn3Vkgg" type="3003" element="_f1yi8KbhEei7To2Sn3Vkgg">
-                            <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRs6bhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRtKbhEei7To2Sn3Vkgg"/>
+                          <children xmi:type="notation:Node" xmi:id="_fLge4LaPEeiGO6ATZaJdfg" type="3003" element="_fGBh8LaPEeiGO6ATZaJdfg">
+                            <styles xmi:type="notation:ShapeStyle" xmi:id="_fLge4baPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLge4raPEeiGO6ATZaJdfg"/>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_KrN_eKbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrN_eabdEeiwbIIBZ7Iefw" x="364" y="298" width="120" height="40"/>
@@ -754,9 +754,9 @@
                         <styles xmi:type="notation:ShapeStyle" xmi:id="_KrY-k6bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrY-lKbdEeiwbIIBZ7Iefw" x="996" y="-2" width="10" height="10"/>
                       </children>
-                      <children xmi:type="notation:Node" xmi:id="_f4fRtabhEei7To2Sn3Vkgg" type="3003" element="_f18T8KbhEei7To2Sn3Vkgg">
-                        <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRtqbhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRt6bhEei7To2Sn3Vkgg"/>
+                      <children xmi:type="notation:Node" xmi:id="_fLhF8LaPEeiGO6ATZaJdfg" type="3003" element="_fGs3YLaPEeiGO6ATZaJdfg">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_fLhF8baPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLhF8raPEeiGO6ATZaJdfg"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_KqwFYabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KqwFYqbdEeiwbIIBZ7Iefw" x="187" y="686" width="1308" height="40"/>
@@ -787,9 +787,9 @@
                         <styles xmi:type="notation:ShapeStyle" xmi:id="_KrazyabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrazyqbdEeiwbIIBZ7Iefw" x="55" y="32" width="10" height="10"/>
                       </children>
-                      <children xmi:type="notation:Node" xmi:id="_f4fRuKbhEei7To2Sn3Vkgg" type="3003" element="_f2REEKbhEei7To2Sn3Vkgg">
-                        <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRuabhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRuqbhEei7To2Sn3Vkgg"/>
+                      <children xmi:type="notation:Node" xmi:id="_fLhtALaPEeiGO6ATZaJdfg" type="3003" element="_fHSGMLaPEeiGO6ATZaJdfg">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_fLhtAbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLhtAraPEeiGO6ATZaJdfg"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_KqxTgabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KqxTgqbdEeiwbIIBZ7Iefw" x="1543" y="103" width="120" height="40"/>
@@ -820,9 +820,9 @@
                         <styles xmi:type="notation:ShapeStyle" xmi:id="_Krba4abdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Krba4qbdEeiwbIIBZ7Iefw" x="60" y="32" width="10" height="10"/>
                       </children>
-                      <children xmi:type="notation:Node" xmi:id="_f4fRu6bhEei7To2Sn3Vkgg" type="3003" element="_f2REEabhEei7To2Sn3Vkgg">
-                        <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRvKbhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRvabhEei7To2Sn3Vkgg"/>
+                      <children xmi:type="notation:Node" xmi:id="_fLiUELaPEeiGO6ATZaJdfg" type="3003" element="_fHUicLaPEeiGO6ATZaJdfg">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_fLiUEbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLiUEraPEeiGO6ATZaJdfg"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_KqxThqbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KqxTh6bdEeiwbIIBZ7Iefw" x="1397" y="103" width="120" height="40"/>
@@ -853,9 +853,9 @@
                         <styles xmi:type="notation:ShapeStyle" xmi:id="_KrcB76bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KrcB8KbdEeiwbIIBZ7Iefw" x="60" y="-2" width="10" height="10"/>
                       </children>
-                      <children xmi:type="notation:Node" xmi:id="_f4fRvqbhEei7To2Sn3Vkgg" type="3003" element="_f2REEqbhEei7To2Sn3Vkgg">
-                        <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRv6bhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRwKbhEei7To2Sn3Vkgg"/>
+                      <children xmi:type="notation:Node" xmi:id="_fLi7ILaPEeiGO6ATZaJdfg" type="3003" element="_fHru0LaPEeiGO6ATZaJdfg">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_fLi7IbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLi7IraPEeiGO6ATZaJdfg"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_Kqx6k6bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kqx6lKbdEeiwbIIBZ7Iefw" x="1123" y="602" width="120" height="40"/>
@@ -875,9 +875,9 @@
                         <styles xmi:type="notation:ShapeStyle" xmi:id="_Krd3FKbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Krd3FabdEeiwbIIBZ7Iefw" x="60" y="-2" width="10" height="10"/>
                       </children>
-                      <children xmi:type="notation:Node" xmi:id="_f4fRwabhEei7To2Sn3Vkgg" type="3003" element="_f2vlMKbhEei7To2Sn3Vkgg">
-                        <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRwqbhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRw6bhEei7To2Sn3Vkgg"/>
+                      <children xmi:type="notation:Node" xmi:id="_fLi7I7aPEeiGO6ATZaJdfg" type="3003" element="_fIWdMLaPEeiGO6ATZaJdfg">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_fLi7JLaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLi7JbaPEeiGO6ATZaJdfg"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_Kqx6mKbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kqx6mabdEeiwbIIBZ7Iefw" x="943" y="602" width="120" height="40"/>
@@ -985,9 +985,9 @@
                         <styles xmi:type="notation:ShapeStyle" xmi:id="_KriIg6bdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KriIhKbdEeiwbIIBZ7Iefw" x="481" y="-2" width="10" height="10"/>
                       </children>
-                      <children xmi:type="notation:Node" xmi:id="_f4fRxKbhEei7To2Sn3Vkgg" type="3003" element="_f3MRIKbhEei7To2Sn3Vkgg">
-                        <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRxabhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRxqbhEei7To2Sn3Vkgg"/>
+                      <children xmi:type="notation:Node" xmi:id="_fLjiMLaPEeiGO6ATZaJdfg" type="3003" element="_fI1lYLaPEeiGO6ATZaJdfg">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_fLjiMbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLjiMraPEeiGO6ATZaJdfg"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_Kqx6nabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kqx6nqbdEeiwbIIBZ7Iefw" x="43" y="518" width="1603" height="40"/>
@@ -1038,9 +1038,9 @@
                         <styles xmi:type="notation:ShapeStyle" xmi:id="_Krj91qbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Krj916bdEeiwbIIBZ7Iefw" x="36" y="-2" width="10" height="10"/>
                       </children>
-                      <children xmi:type="notation:Node" xmi:id="_f4fRx6bhEei7To2Sn3Vkgg" type="3003" element="_f3iPYKbhEei7To2Sn3Vkgg">
-                        <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRyKbhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRyabhEei7To2Sn3Vkgg"/>
+                      <children xmi:type="notation:Node" xmi:id="_fLkJQLaPEeiGO6ATZaJdfg" type="3003" element="_fJjXELaPEeiGO6ATZaJdfg">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_fLkJQbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLkJQraPEeiGO6ATZaJdfg"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_Krj9zKbdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Krj9zabdEeiwbIIBZ7Iefw" x="31" y="54" width="145" height="40"/>
@@ -1060,9 +1060,9 @@
                         <styles xmi:type="notation:ShapeStyle" xmi:id="_Krj94abdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Krj94qbdEeiwbIIBZ7Iefw" x="96" y="-2" width="10" height="10"/>
                       </children>
-                      <children xmi:type="notation:Node" xmi:id="_f4fRyqbhEei7To2Sn3Vkgg" type="3003" element="_f3iPYabhEei7To2Sn3Vkgg">
-                        <styles xmi:type="notation:ShapeStyle" xmi:id="_f4fRy6bhEei7To2Sn3Vkgg" fontName="Segoe UI"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4fRzKbhEei7To2Sn3Vkgg"/>
+                      <children xmi:type="notation:Node" xmi:id="_fLkwULaPEeiGO6ATZaJdfg" type="3003" element="_fJlzULaPEeiGO6ATZaJdfg">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_fLkwUbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLkwUraPEeiGO6ATZaJdfg"/>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_Krj90abdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Krj90qbdEeiwbIIBZ7Iefw" x="223" y="54" width="181" height="40"/>
@@ -1165,13 +1165,13 @@
         <children xmi:type="notation:Node" xmi:id="_TJx5YKecEeiQE-XkHuAiFQ" type="2003" element="_TJj28KecEeiQE-XkHuAiFQ">
           <children xmi:type="notation:Node" xmi:id="_TJygcKecEeiQE-XkHuAiFQ" type="5007"/>
           <children xmi:type="notation:Node" xmi:id="_TJygcaecEeiQE-XkHuAiFQ" type="7004">
-            <children xmi:type="notation:Node" xmi:id="_TJ3Y8KecEeiQE-XkHuAiFQ" type="3010" element="_TJkeAKecEeiQE-XkHuAiFQ">
-              <styles xmi:type="notation:FontStyle" xmi:id="_TJ3Y8aecEeiQE-XkHuAiFQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_TJ3Y8qecEeiQE-XkHuAiFQ"/>
+            <children xmi:type="notation:Node" xmi:id="_fLmlgLaPEeiGO6ATZaJdfg" type="3010" element="_fJshALaPEeiGO6ATZaJdfg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_fLmlgbaPEeiGO6ATZaJdfg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_fLmlgraPEeiGO6ATZaJdfg"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_TJ3Y86ecEeiQE-XkHuAiFQ" type="3010" element="_TJlFEKecEeiQE-XkHuAiFQ">
-              <styles xmi:type="notation:FontStyle" xmi:id="_TJ3Y9KecEeiQE-XkHuAiFQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_TJ3Y9aecEeiQE-XkHuAiFQ"/>
+            <children xmi:type="notation:Node" xmi:id="_fLpo0LaPEeiGO6ATZaJdfg" type="3010" element="_fJ4uQLaPEeiGO6ATZaJdfg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_fLpo0baPEeiGO6ATZaJdfg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_fLpo0raPEeiGO6ATZaJdfg"/>
             </children>
             <styles xmi:type="notation:SortingStyle" xmi:id="_TJygcqecEeiQE-XkHuAiFQ"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_TJygc6ecEeiQE-XkHuAiFQ"/>
@@ -1772,7 +1772,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KporEKbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KporEKbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -1783,7 +1783,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kpp5MabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kpp5MabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -1791,9 +1791,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_fzPlQKbhEei7To2Sn3Vkgg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fABnoLaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -1806,7 +1806,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpqgQabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpqgQabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -1817,7 +1817,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KprHUabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KprHUabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -1825,9 +1825,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="__YSigKe0EeiXaPBKk6WgHQ" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fAdFcLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.0/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -1840,7 +1840,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpruYabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpruYabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -1851,7 +1851,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpsVcabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpsVcabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -1859,9 +1859,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f0C2gKbhEei7To2Sn3Vkgg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fBK3ILaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -1874,7 +1874,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kps8gabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kps8gabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -1885,7 +1885,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KptjkabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KptjkabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -1893,9 +1893,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f0C2gabhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fBrNcLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -1908,7 +1908,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpuKoabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpuKoabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -1919,7 +1919,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpuxsabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpuxsabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -1927,9 +1927,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="__YmrkKe0EeiXaPBKk6WgHQ" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fCBywLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.0/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -1974,7 +1974,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpycEabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpycEabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -1985,7 +1985,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpzqMKbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpzqMKbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -1993,9 +1993,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f0_4wKbhEei7To2Sn3Vkgg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fCXJ8LaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2008,7 +2008,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpzqMqbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_KpzqMqbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2019,7 +2019,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp0RQKbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp0RQKbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2027,9 +2027,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="__Yn5sKe0EeiXaPBKk6WgHQ" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fCYYELaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.0/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2042,7 +2042,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp04UKbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp04UKbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2053,7 +2053,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp04UqbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp04UqbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2061,9 +2061,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f0_4wabhEei7To2Sn3Vkgg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fCaNQLaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2076,7 +2076,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp1fYabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp1fYabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2087,7 +2087,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp2GcabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp2GcabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2095,9 +2095,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f0_4wqbhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fCcpgLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2110,7 +2110,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp2tgabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp2tgabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2121,7 +2121,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp2tg6bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp2tg6bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2129,9 +2129,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="__YogwKe0EeiXaPBKk6WgHQ" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fCdQkLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.0/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2176,7 +2176,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp5w06bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp5w06bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2187,7 +2187,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6X4abdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6X4abdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2195,9 +2195,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f1JpwKbhEei7To2Sn3Vkgg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fCnBkLaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2210,7 +2210,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6X46bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6X46bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2221,7 +2221,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6-8abdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6-8abdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2229,9 +2229,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="__Ypu4Ke0EeiXaPBKk6WgHQ" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fCoPsLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.0/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2244,7 +2244,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6-86bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6-86bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2255,7 +2255,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6-9abdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6-9abdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2263,9 +2263,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="__Ypu4ae0EeiXaPBKk6WgHQ" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fCpd0LaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.0/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2278,7 +2278,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6-96bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6-96bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2289,7 +2289,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6--abdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp6--abdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2297,9 +2297,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f1UB0KbhEei7To2Sn3Vkgg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fDP6wLaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2312,7 +2312,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp80IKbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp80IKbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2323,7 +2323,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp80IqbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp80IqbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2331,9 +2331,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f1eZ4KbhEei7To2Sn3Vkgg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fD1JkLaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2346,7 +2346,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp9bMabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp9bMabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2357,7 +2357,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp-CQabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp-CQabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2368,7 +2368,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp-CQ6bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp-CQ6bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2376,9 +2376,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f1oK4KbhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fETDoLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2391,7 +2391,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp-pUabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp-pUabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2402,7 +2402,7 @@
                 <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
                 <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
                 <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp_QYKbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+                <ownedStyle xmi:type="diagram:Square" xmi:id="_Kp_QYKbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                   <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
                 </ownedStyle>
                 <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2410,9 +2410,9 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_f1yi8KbhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_fGBh8LaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
                 <labelFormat>bold</labelFormat>
-                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
             </ownedDiagramElements>
@@ -2450,7 +2450,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqBFkKbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqBFkKbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2461,7 +2461,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqBFkqbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqBFkqbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2472,7 +2472,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqBFlKbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqBFlKbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2483,7 +2483,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqCTs6bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqCTs6bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2494,7 +2494,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqC6wabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqC6wabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2502,9 +2502,9 @@
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
             <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-            <ownedStyle xmi:type="diagram:Square" xmi:id="_f18T8KbhEei7To2Sn3Vkgg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_fGs3YLaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
               <labelFormat>bold</labelFormat>
-              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
+              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
@@ -2514,7 +2514,7 @@
             <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_KqC6wqbdEeiwbIIBZ7Iefw" tooltipText="" outgoingEdges="_WGvmgKesEeiVjv9GXslO6g" width="1" height="1" resizeKind="NSEW">
               <target xmi:type="esdl:InPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@instance.0/@area/@area.0/@asset.1/@port.1"/>
               <semanticElements xmi:type="esdl:InPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@instance.0/@area/@area.0/@asset.1/@port.1"/>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqC6w6bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqC6w6bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2525,7 +2525,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqDh0abdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqDh0abdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2533,9 +2533,9 @@
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
             <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-            <ownedStyle xmi:type="diagram:Square" xmi:id="_f2REEKbhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="102,117,0" labelPosition="node" width="12" height="4" color="147,168,0">
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_fHSGMLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="102,117,0" labelPosition="node" width="12" height="4" color="147,168,0">
               <labelFormat>bold</labelFormat>
-              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
+              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.4/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
@@ -2545,7 +2545,7 @@
             <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_KqDh0qbdEeiwbIIBZ7Iefw" tooltipText="" outgoingEdges="_WGyCwKesEeiVjv9GXslO6g" width="1" height="1" resizeKind="NSEW">
               <target xmi:type="esdl:InPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@instance.0/@area/@area.0/@asset.2/@port.1"/>
               <semanticElements xmi:type="esdl:InPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@instance.0/@area/@area.0/@asset.2/@port.1"/>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqDh06bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqDh06bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2556,7 +2556,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqEI4abdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqEI4abdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2564,9 +2564,9 @@
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
             <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-            <ownedStyle xmi:type="diagram:Square" xmi:id="_f2REEabhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="102,117,0" labelPosition="node" width="12" height="4" color="147,168,0">
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_fHUicLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="102,117,0" labelPosition="node" width="12" height="4" color="147,168,0">
               <labelFormat>bold</labelFormat>
-              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
+              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.4/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
@@ -2579,7 +2579,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqEv8abdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqEv8abdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2590,7 +2590,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqEv86bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqEv86bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2598,9 +2598,9 @@
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
             <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-            <ownedStyle xmi:type="diagram:Square" xmi:id="_f2REEqbhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_fHru0LaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="117,50,167" labelPosition="node" width="12" height="4" color="181,116,186">
               <labelFormat>bold</labelFormat>
-              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
+              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
@@ -2613,7 +2613,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqEv9abdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqEv9abdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2621,9 +2621,9 @@
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
             <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-            <ownedStyle xmi:type="diagram:Square" xmi:id="_f2vlMKbhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="156,12,26" labelPosition="node" width="12" height="4" color="203,19,37">
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_fIWdMLaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="156,12,26" labelPosition="node" width="12" height="4" color="203,19,37">
               <labelFormat>bold</labelFormat>
-              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.4/@style"/>
+              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.5/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
@@ -2636,7 +2636,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXAabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXAabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2647,7 +2647,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXA6bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXA6bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2658,7 +2658,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXBabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXBabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2669,7 +2669,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXB6bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXB6bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2680,7 +2680,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXCabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXCabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2691,7 +2691,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXC6bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqFXC6bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
@@ -2702,7 +2702,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqHMMabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqHMMabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2713,7 +2713,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqHMM6bdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqHMM6bdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2724,7 +2724,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqHzQabdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqHzQabdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2732,9 +2732,9 @@
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
             <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-            <ownedStyle xmi:type="diagram:Square" xmi:id="_f3MRIKbhEei7To2Sn3Vkgg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_fI1lYLaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
               <labelFormat>bold</labelFormat>
-              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.2/@style"/>
+              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
@@ -2783,7 +2783,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqKPhKbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqKPhKbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2791,9 +2791,9 @@
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
             <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-            <ownedStyle xmi:type="diagram:Square" xmi:id="_f3iPYKbhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="102,117,0" labelPosition="node" width="12" height="4" color="147,168,0">
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_fJjXELaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="102,117,0" labelPosition="node" width="12" height="4" color="147,168,0">
               <labelFormat>bold</labelFormat>
-              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
+              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.4/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
@@ -2806,7 +2806,7 @@
               <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
               <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
               <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqKPhqbdEeiwbIIBZ7Iefw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" labelPosition="node" width="1" height="1" color="255,255,255">
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_KqKPhqbdEeiwbIIBZ7Iefw" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
                 <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
@@ -2814,9 +2814,9 @@
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
             <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-            <ownedStyle xmi:type="diagram:Square" xmi:id="_f3iPYabhEei7To2Sn3Vkgg" labelColor="255,255,255" borderColor="102,117,0" labelPosition="node" width="12" height="4" color="147,168,0">
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_fJlzULaPEeiGO6ATZaJdfg" labelColor="255,255,255" borderColor="102,117,0" labelPosition="node" width="12" height="4" color="147,168,0">
               <labelFormat>bold</labelFormat>
-              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
+              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.4/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
@@ -2998,7 +2998,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@edgeMappings[name='ConnectedTo']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_lUMkwKeDEei4f-BIpMkxnw" name=" Energy System Information" childrenPresentation="VerticalStack">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_lUMkwKeDEei4f-BIpMkxnw" name="Energy System Information" childrenPresentation="VerticalStack">
       <target xmi:type="esdl:EnergySystemInformation" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@energySystemInformation"/>
       <semanticElements xmi:type="esdl:EnergySystemInformation" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@energySystemInformation"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -3086,21 +3086,21 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Measures']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Measures']"/>
-      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_TJkeAKecEeiQE-XkHuAiFQ" name="WindTurbine 3MW at Sea">
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_fJshALaPEeiGO6ATZaJdfg" name="WindTurbine 3MW at Sea">
         <target xmi:type="esdl:WindTurbine" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#WT3MWSEA1"/>
         <semanticElements xmi:type="esdl:WindTurbine" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#WT3MWSEA1"/>
-        <ownedStyle xmi:type="diagram:Square" xmi:id="_TJkeAaecEeiQE-XkHuAiFQ" labelAlignment="LEFT" labelPosition="node">
-          <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Measures']/@subNodeMappings[name='Measure']/@style"/>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_fJ3gILaPEeiGO6ATZaJdfg" labelAlignment="LEFT" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.0/@style"/>
         </ownedStyle>
-        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Measures']/@subNodeMappings[name='Measure']"/>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_TJlFEKecEeiQE-XkHuAiFQ" name="Geothermal Source">
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_fJ4uQLaPEeiGO6ATZaJdfg" name="Geothermal Source">
         <target xmi:type="esdl:GeothermalSource" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#GTS1"/>
         <semanticElements xmi:type="esdl:GeothermalSource" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#GTS1"/>
-        <ownedStyle xmi:type="diagram:Square" xmi:id="_TJlFEaecEeiQE-XkHuAiFQ" labelAlignment="LEFT" labelPosition="node">
-          <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Measures']/@subNodeMappings[name='Measure']/@style"/>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_fKADALaPEeiGO6ATZaJdfg" labelAlignment="LEFT" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.0/@style"/>
         </ownedStyle>
-        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Measures']/@subNodeMappings[name='Measure']"/>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
       </ownedElements>
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_TJlFEqecEeiQE-XkHuAiFQ" name="Potentials">
