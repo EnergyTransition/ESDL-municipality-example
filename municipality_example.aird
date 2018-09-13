@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:esdl="http://www.tno.nl/esdl/1809" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.tno.nl/esdl/1809 platform:/resource/esdl/model/esdl.ecore http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:esdl="http://www.tno.nl/esdl/1809" xmlns:filter="http://www.eclipse.org/sirius/diagram/description/filter/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.tno.nl/esdl/1809 platform:/resource/esdl/model/esdl.ecore http://www.eclipse.org/sirius/diagram/description/filter/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/filter http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
   <viewpoint:DAnalysis xmi:id="_08J-EF22EeiXwpiVxf2smg" selectedViews="_hw70cF24EeiXwpiVxf2smg" version="13.0.0.201804031646">
     <semanticResources>ESDL_example_with_municipality_potential_and_measures-new.xmi</semanticResources>
     <semanticResources>platform:/resource/esdl.design/description/esdl.odesign</semanticResources>
@@ -989,6 +989,17 @@
                         <styles xmi:type="notation:ShapeStyle" xmi:id="_fLjiMbaPEeiGO6ATZaJdfg" fontName="Segoe UI"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLjiMraPEeiGO6ATZaJdfg"/>
                       </children>
+                      <children xmi:type="notation:Node" xmi:id="_CZIoALdFEeiNJ6epbnMN-A" type="3001" element="_CWarMLdFEeiNJ6epbnMN-A">
+                        <children xmi:type="notation:Node" xmi:id="_CZIoA7dFEeiNJ6epbnMN-A" type="5001">
+                          <layoutConstraint xmi:type="notation:Location" xmi:id="_CZIoBLdFEeiNJ6epbnMN-A" x="-1" y="8"/>
+                        </children>
+                        <children xmi:type="notation:Node" xmi:id="_CZIoBbdFEeiNJ6epbnMN-A" type="3003" element="_CWarMbdFEeiNJ6epbnMN-A">
+                          <styles xmi:type="notation:ShapeStyle" xmi:id="_CZIoBrdFEeiNJ6epbnMN-A" fontName="Segoe UI"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CZIoB7dFEeiNJ6epbnMN-A"/>
+                        </children>
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_CZIoAbdFEeiNJ6epbnMN-A" fontName="Segoe UI" fontHeight="4"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CZIoArdFEeiNJ6epbnMN-A" x="88" y="32" width="10" height="10"/>
+                      </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_Kqx6nabdEeiwbIIBZ7Iefw" fontName="Segoe UI" fontHeight="8"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kqx6nqbdEeiwbIIBZ7Iefw" x="43" y="518" width="1603" height="40"/>
                     </children>
@@ -1013,6 +1024,28 @@
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_WIBY4aesEeiVjv9GXslO6g" fontName="Segoe UI" fontHeight="6" italic="true"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WIBY4qesEeiVjv9GXslO6g" x="1375" y="34" width="100" height="30"/>
+                    </children>
+                    <children xmi:type="notation:Node" xmi:id="_zeB6oLdEEeiNJ6epbnMN-A" type="3007" element="_zbVL8LdEEeiNJ6epbnMN-A">
+                      <children xmi:type="notation:Node" xmi:id="_zeChsLdEEeiNJ6epbnMN-A" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_zeChsbdEEeiNJ6epbnMN-A" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_zeCht7dEEeiNJ6epbnMN-A" type="3003" element="_zbe88LdEEeiNJ6epbnMN-A">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_zeChuLdEEeiNJ6epbnMN-A" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zeChubdEEeiNJ6epbnMN-A"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_DI-JgLdFEeiNJ6epbnMN-A" type="3001" element="_DF8qsLdFEeiNJ6epbnMN-A">
+                        <children xmi:type="notation:Node" xmi:id="_DI-Jg7dFEeiNJ6epbnMN-A" type="5001">
+                          <layoutConstraint xmi:type="notation:Location" xmi:id="_DI-JhLdFEeiNJ6epbnMN-A" x="-1" y="6"/>
+                        </children>
+                        <children xmi:type="notation:Node" xmi:id="_DI-JhbdFEeiNJ6epbnMN-A" type="3003" element="_DF8qsbdFEeiNJ6epbnMN-A">
+                          <styles xmi:type="notation:ShapeStyle" xmi:id="_DI-JhrdFEeiNJ6epbnMN-A" fontName="Segoe UI"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DI-Jh7dFEeiNJ6epbnMN-A"/>
+                        </children>
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_DI-JgbdFEeiNJ6epbnMN-A" fontName="Segoe UI" fontHeight="4"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DI-JgrdFEeiNJ6epbnMN-A" x="76" y="-2" width="10" height="10"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_zeB6obdEEeiNJ6epbnMN-A" fontColor="16777215" fontName="Segoe UI" fontHeight="8" bold="true"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zeB6ordEEeiNJ6epbnMN-A" x="55" y="590" width="120" height="40"/>
                     </children>
                     <styles xmi:type="notation:SortingStyle" xmi:id="_KqtpIabdEeiwbIIBZ7Iefw"/>
                     <styles xmi:type="notation:FilteringStyle" xmi:id="_KqtpIqbdEeiwbIIBZ7Iefw"/>
@@ -1154,7 +1187,21 @@
                 <styles xmi:type="notation:DrawerStyle" xmi:id="_TJ2x4KecEeiQE-XkHuAiFQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_TJ08sKecEeiQE-XkHuAiFQ" fontName="Segoe UI" fontHeight="10" bold="true"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TJ08saecEeiQE-XkHuAiFQ" width="263"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TJ08saecEeiQE-XkHuAiFQ"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_SxjQoLc0EeiudNP9vec9kA" type="3009" element="_SuXZwLc0EeiudNP9vec9kA">
+              <children xmi:type="notation:Node" xmi:id="_SxjQo7c0EeiudNP9vec9kA" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_SxjQpLc0EeiudNP9vec9kA" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_ANl7ULc2EeiudNP9vec9kA" type="3010" element="_ANbjQLc2EeiudNP9vec9kA">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_ANl7Ubc2EeiudNP9vec9kA" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_ANl7Urc2EeiudNP9vec9kA"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_SxjQpbc0EeiudNP9vec9kA"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_SxjQprc0EeiudNP9vec9kA"/>
+                <styles xmi:type="notation:DrawerStyle" xmi:id="_SxjQp7c0EeiudNP9vec9kA"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_SxjQobc0EeiudNP9vec9kA" fontName="Segoe UI" fontHeight="10" bold="true"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SxjQorc0EeiudNP9vec9kA" y="269" width="263" height="204"/>
             </children>
             <styles xmi:type="notation:SortingStyle" xmi:id="_lX71QaeDEei4f-BIpMkxnw"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_lX71QqeDEei4f-BIpMkxnw"/>
@@ -1177,7 +1224,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_TJygc6ecEeiQE-XkHuAiFQ"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_TJx5YaecEeiQE-XkHuAiFQ" fontName="Segoe UI" fontHeight="12" bold="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TJx5YqecEeiQE-XkHuAiFQ" x="1980" y="480" width="267"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TJx5YqecEeiQE-XkHuAiFQ" x="1980" y="1008" width="267" height="104"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_TJygdKecEeiQE-XkHuAiFQ" type="2003" element="_TJlFEqecEeiQE-XkHuAiFQ">
           <children xmi:type="notation:Node" xmi:id="_TJzHgKecEeiQE-XkHuAiFQ" type="5007"/>
@@ -1194,7 +1241,24 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_TJzHg6ecEeiQE-XkHuAiFQ"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_TJygdaecEeiQE-XkHuAiFQ" fontName="Segoe UI" fontHeight="12" bold="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TJygdqecEeiQE-XkHuAiFQ" x="1980" y="360" width="267"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TJygdqecEeiQE-XkHuAiFQ" x="1980" y="780" width="267" height="104"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_B6eT4Lc2EeiudNP9vec9kA" type="2003" element="_B3IE8Lc2EeiudNP9vec9kA">
+          <children xmi:type="notation:Node" xmi:id="_B6eT47c2EeiudNP9vec9kA" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_B6eT5Lc2EeiudNP9vec9kA" type="7004">
+            <children xmi:type="notation:Node" xmi:id="_DJP0ILc2EeiudNP9vec9kA" type="3010" element="_DFVkgLc2EeiudNP9vec9kA">
+              <styles xmi:type="notation:FontStyle" xmi:id="_DJP0Ibc2EeiudNP9vec9kA" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_DJP0Irc2EeiudNP9vec9kA"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_e0GpQLdEEeiNJ6epbnMN-A" type="3010" element="_ewmpULdEEeiNJ6epbnMN-A">
+              <styles xmi:type="notation:FontStyle" xmi:id="_e0GpQbdEEeiNJ6epbnMN-A" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_e0GpQrdEEeiNJ6epbnMN-A"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_B6eT5bc2EeiudNP9vec9kA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_B6eT5rc2EeiudNP9vec9kA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_B6eT4bc2EeiudNP9vec9kA" fontName="Segoe UI" fontHeight="12" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B6eT4rc2EeiudNP9vec9kA" x="1981" y="888" width="266" height="110"/>
         </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_KhifAqbdEeiwbIIBZ7Iefw"/>
         <edges xmi:type="notation:Edge" xmi:id="_Krj966bdEeiwbIIBZ7Iefw" type="4001" element="_KqRkQKbdEeiwbIIBZ7Iefw" source="_Kq3aIKbdEeiwbIIBZ7Iefw" target="_Kq5PU6bdEeiwbIIBZ7Iefw">
@@ -1724,6 +1788,38 @@
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2oMl5ae0EeiXaPBKk6WgHQ" points="[-5, -2, 229, 81]$[-192, -68, 42, 15]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2oNM9qe0EeiXaPBKk6WgHQ" id="(0.5,0.5)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2oNM96e0EeiXaPBKk6WgHQ" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_EN80kLdFEeiNJ6epbnMN-A" type="4001" element="_EKdbsLdFEeiNJ6epbnMN-A" source="_CZIoALdFEeiNJ6epbnMN-A" target="_DI-JgLdFEeiNJ6epbnMN-A">
+          <children xmi:type="notation:Node" xmi:id="_EN80lLdFEeiNJ6epbnMN-A" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EN80lbdFEeiNJ6epbnMN-A" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_EN80lrdFEeiNJ6epbnMN-A" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EN80l7dFEeiNJ6epbnMN-A" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_EN80mLdFEeiNJ6epbnMN-A" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EN80mbdFEeiNJ6epbnMN-A" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_EN80kbdFEeiNJ6epbnMN-A"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_EN80krdFEeiNJ6epbnMN-A" fontName="Segoe UI"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EN80k7dFEeiNJ6epbnMN-A" points="[0, 5, 0, -33]$[0, 33, 0, -5]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EN80mrdFEeiNJ6epbnMN-A" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EN80m7dFEeiNJ6epbnMN-A" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Ji9xcLdFEeiNJ6epbnMN-A" visible="false" type="4001" element="_Jiug4LdFEeiNJ6epbnMN-A" source="_DI-JgLdFEeiNJ6epbnMN-A" target="_P0q6kKejEeiXaPBKk6WgHQ">
+          <children xmi:type="notation:Node" xmi:id="_Ji9xdLdFEeiNJ6epbnMN-A" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ji9xdbdFEeiNJ6epbnMN-A" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ji9xdrdFEeiNJ6epbnMN-A" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ji9xd7dFEeiNJ6epbnMN-A" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ji-YgLdFEeiNJ6epbnMN-A" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ji-YgbdFEeiNJ6epbnMN-A" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Ji9xcbdFEeiNJ6epbnMN-A"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Ji9xcrdFEeiNJ6epbnMN-A" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ji9xc7dFEeiNJ6epbnMN-A" points="[5, -2, -1732, 435]$[1737, -437, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ji-_kLdFEeiNJ6epbnMN-A" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ji-_kbdFEeiNJ6epbnMN-A" id="(0.5,0.5)"/>
         </edges>
       </data>
     </ownedAnnotationEntries>
@@ -2729,12 +2825,37 @@
               </ownedStyle>
               <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
             </ownedBorderedNodes>
+            <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_CWarMLdFEeiNJ6epbnMN-A" tooltipText="EN1_OutPort10" outgoingEdges="_EKdbsLdFEeiNJ6epbnMN-A" width="1" height="1" resizeKind="NSEW">
+              <target xmi:type="esdl:OutPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#EN1_OutPort10"/>
+              <semanticElements xmi:type="esdl:OutPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#EN1_OutPort10"/>
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_CWarMbdFEeiNJ6epbnMN-A" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="239,41,41" borderLineStyle="dot" width="1" height="1" color="224,133,3">
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']/@style"/>
+              </ownedStyle>
+              <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='OutPorts']"/>
+            </ownedBorderedNodes>
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
             <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
             <ownedStyle xmi:type="diagram:Square" xmi:id="_fI1lYLaPEeiGO6ATZaJdfg" borderColor="224,178,0" labelPosition="node" width="12" height="4" color="255,203,0">
               <labelFormat>bold</labelFormat>
               <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.3/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
+          </ownedDiagramElements>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_zbVL8LdEEeiNJ6epbnMN-A" name="EV Demand" width="12" height="4" resizeKind="NSEW">
+            <target xmi:type="esdl:MobilityDemand" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#MobilityDemand10"/>
+            <semanticElements xmi:type="esdl:MobilityDemand" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#MobilityDemand10"/>
+            <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_DF8qsLdFEeiNJ6epbnMN-A" name="Electricity" tooltipText="MobilityDemand10_InPort2" outgoingEdges="_Jiug4LdFEeiNJ6epbnMN-A" incomingEdges="_EKdbsLdFEeiNJ6epbnMN-A" width="1" height="1" resizeKind="NSEW">
+              <target xmi:type="esdl:InPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#MobilityDemand10_InPort2"/>
+              <semanticElements xmi:type="esdl:InPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#MobilityDemand10_InPort2"/>
+              <ownedStyle xmi:type="diagram:Square" xmi:id="_DF8qsbdFEeiNJ6epbnMN-A" labelSize="4" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="114,159,207" borderLineStyle="dot" width="1" height="1" color="255,255,255">
+                <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']/@style"/>
+              </ownedStyle>
+              <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@borderedNodeMappings[name='InPorts']"/>
+            </ownedBorderedNodes>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_zbe88LdEEeiNJ6epbnMN-A" labelColor="255,255,255" borderColor="72,116,148" labelPosition="node" width="12" height="4" color="100,158,201">
+              <labelFormat>bold</labelFormat>
+              <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']/@conditionnalStyles.1/@style"/>
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Instance']/@subContainerMappings[name='AreaContainer']/@subNodeMappings[name='EnergyAsset']"/>
           </ownedDiagramElements>
@@ -3065,7 +3186,7 @@
           </ownedStyle>
           <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='EnergySystemInformation']/@subContainerMappings[name='Carriers']/@subContainerMappings[name='CarrierContainer']"/>
         </ownedDiagramElements>
-        <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_Px56cqejEeiXaPBKk6WgHQ" name="Electricity">
+        <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_Px56cqejEeiXaPBKk6WgHQ" name="Electricity" incomingEdges="_Jiug4LdFEeiNJ6epbnMN-A">
           <target xmi:type="esdl:ElectricityCommodity" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#Elec"/>
           <semanticElements xmi:type="esdl:ElectricityCommodity" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#Elec"/>
           <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_Px6hgKejEeiXaPBKk6WgHQ" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1">
@@ -3073,6 +3194,23 @@
           </ownedStyle>
           <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='EnergySystemInformation']/@subContainerMappings[name='Carriers']/@subContainerMappings[name='CarrierContainer']"/>
         </ownedDiagramElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_SuXZwLc0EeiudNP9vec9kA" name=" Mobility Fuel Information">
+        <target xmi:type="esdl:MobilityFuelInformation" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@energySystemInformation/@mobilityFuelInformation"/>
+        <semanticElements xmi:type="esdl:MobilityFuelInformation" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@energySystemInformation/@mobilityFuelInformation"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_SuXZwbc0EeiudNP9vec9kA" labelSize="10" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" backgroundColor="217,196,215">
+          <labelFormat>bold</labelFormat>
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='EnergySystemInformation']/@subContainerMappings[name='MobilityFuelInformation']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='EnergySystemInformation']/@subContainerMappings[name='MobilityFuelInformation']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_ANbjQLc2EeiudNP9vec9kA" name="CAR ELECTRICITY: 0.0">
+          <target xmi:type="esdl:VehicleFuelEfficiency" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@energySystemInformation/@mobilityFuelInformation/@vehiclefuelefficiency.0"/>
+          <semanticElements xmi:type="esdl:VehicleFuelEfficiency" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@energySystemInformation/@mobilityFuelInformation/@vehiclefuelefficiency.0"/>
+          <ownedStyle xmi:type="diagram:Square" xmi:id="_ANbjQbc2EeiudNP9vec9kA" labelAlignment="LEFT" labelPosition="node">
+            <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='EnergySystemInformation']/@subContainerMappings[name='MobilityFuelInformation']/@subNodeMappings[name='VehicleFuelEfficiency']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='EnergySystemInformation']/@subContainerMappings[name='MobilityFuelInformation']/@subNodeMappings[name='VehicleFuelEfficiency']"/>
+        </ownedElements>
       </ownedDiagramElements>
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_TJj28KecEeiQE-XkHuAiFQ" name="Measures">
@@ -3195,7 +3333,54 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@edgeMappings[name='profileRelation']"/>
     </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_B3IE8Lc2EeiudNP9vec9kA" name=" Parties">
+      <target xmi:type="esdl:Parties" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@parties"/>
+      <semanticElements xmi:type="esdl:Parties" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#//@parties"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_B3IE8bc2EeiudNP9vec9kA" labelSize="12" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Parties']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Parties']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_DFVkgLc2EeiudNP9vec9kA" name="DSO1">
+        <target xmi:type="esdl:Party" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#DSO1"/>
+        <semanticElements xmi:type="esdl:Party" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#DSO1"/>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_DFVkgbc2EeiudNP9vec9kA" labelAlignment="LEFT" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Parties']/@subNodeMappings[name='Party']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Parties']/@subNodeMappings[name='Party']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_ewmpULdEEeiNJ6epbnMN-A" name="Municipality1">
+        <target xmi:type="esdl:Party" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#Municipality1"/>
+        <semanticElements xmi:type="esdl:Party" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#Municipality1"/>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_ewmpUbdEEeiNJ6epbnMN-A" labelAlignment="LEFT" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Parties']/@subNodeMappings[name='Party']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@containerMappings[name='Parties']/@subNodeMappings[name='Party']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EKdbsLdFEeiNJ6epbnMN-A" sourceNode="_CWarMLdFEeiNJ6epbnMN-A" targetNode="_DF8qsLdFEeiNJ6epbnMN-A">
+      <target xmi:type="esdl:OutPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#EN1_OutPort10"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EKdbsbdFEeiNJ6epbnMN-A" targetArrow="InputFillClosedArrow" size="2" centered="Both" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@edgeMappings[name='ConnectedTo']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@edgeMappings[name='ConnectedTo']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_Jiug4LdFEeiNJ6epbnMN-A" visible="false" sourceNode="_DF8qsLdFEeiNJ6epbnMN-A" targetNode="_Px56cqejEeiXaPBKk6WgHQ">
+      <target xmi:type="esdl:InPort" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#MobilityDemand10_InPort2"/>
+      <graphicalFilters xmi:type="diagram:AppliedCompositeFilters" xmi:id="_PoSw8LdFEeiNJ6epbnMN-A">
+        <compositeFilterDescriptions xmi:type="filter:CompositeFilterDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@filters[name='Hide%20Carrier%20Relation']"/>
+      </graphicalFilters>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_Jiug4bdFEeiNJ6epbnMN-A" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@edgeMappings[name='carrierRelation']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_Jiug4rdFEeiNJ6epbnMN-A"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer/@edgeMappings[name='carrierRelation']"/>
+    </ownedDiagramElements>
     <description xmi:type="description_1:DiagramDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']"/>
+    <activatedFilters xmi:type="filter:CompositeFilterDescription" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@filters[name='Hide%20Carrier%20Relation']"/>
     <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_KhYG9KbdEeiwbIIBZ7Iefw"/>
     <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/esdl.design/description/esdl.odesign#//@ownedViewpoints[name='ESDL%20Viewpoint']/@ownedRepresentations[name='ESDL%20Diagram']/@defaultLayer"/>
     <target xmi:type="esdl:EnergySystem" href="ESDL_example_with_municipality_potential_and_measures-new.xmi#/"/>

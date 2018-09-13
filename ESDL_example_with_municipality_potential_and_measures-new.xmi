@@ -15,7 +15,7 @@
   </measures>
   <instance id="Inst1" name="EnergieSysteemInstantie" description="" detailLevel="MUNICIPALITY">
     <area id="ARR1" name="Region 1" scope="REGION" potentials="GPA">
-      <area id="ARG1" name="Municipality XXX" scope="MUNICIPALITY" type="LAND">
+      <area id="ARG1" name="Municipality XXX" scope="MUNICIPALITY" type="LAND" isOwnedBy="Municipality1">
         <asset xsi:type="esdl:GasNetwork" id="GN1" name="Gas Network" owner="GasNetworkOwner">
           <port xsi:type="esdl:InPort" id="GasNetworkToGasSource" connectedTo="GasSourceToGasNetwork"/>
           <port xsi:type="esdl:OutPort" id="GNetwToH1" connectedTo="H1GCIN"/>
@@ -129,7 +129,7 @@
         <asset xsi:type="esdl:Battery" id="BATT1" name="Battery" owner="BatteryOwner" capacity="2000.0" maxChargeRate="200.0" maxDischargeRate="200.0">
           <port xsi:type="esdl:OutPort" id="BATOUT" connectedTo="ENetwToBattery"/>
         </asset>
-        <asset xsi:type="esdl:ElectricityNetwork" id="EN1" name="Electricity Network" owner="ElectricityNetworkOwner">
+        <asset xsi:type="esdl:ElectricityNetwork" id="EN1" name="Electricity Network" isOwnedBy="DSO1" owner="ElectricityNetworkOwner">
           <port xsi:type="esdl:InPort" id="Omgeving" connectedTo="ElecSourceOut"/>
           <port xsi:type="esdl:InPort" id="ENetworkToPVParc1" connectedTo="PVParc1ToENetwork"/>
           <port xsi:type="esdl:InPort" id="ENetworkToPVParc2" connectedTo="PVParc2ToENetwork"/>
@@ -139,6 +139,10 @@
           <port xsi:type="esdl:InPort" id="ENetwToFC" connectedTo="FCEOUT"/>
           <port xsi:type="esdl:InPort" id="ENetwToPLGen" connectedTo="PLGENOUT"/>
           <port xsi:type="esdl:InPort" id="ENetwToBattery" connectedTo="BATOUT"/>
+          <port xsi:type="esdl:OutPort" id="EN1_OutPort10" connectedTo="MobilityDemand10_InPort2"/>
+        </asset>
+        <asset xsi:type="esdl:MobilityDemand" id="MobilityDemand10" name="EV Demand" fuelType="ELECTRICITY">
+          <port xsi:type="esdl:InPort" id="MobilityDemand10_InPort2" carrier="Elec" connectedTo="EN1_OutPort10"/>
         </asset>
       </area>
       <area id="AROG" name="Surrounding Area" scope="MUNICIPALITY" type="LAND">
@@ -167,5 +171,12 @@
       <carrier xsi:type="esdl:HeatCommodity" name="Heat" id="Heat" temperature="90.0"/>
       <carrier xsi:type="esdl:ElectricityCommodity" name="Electricity" id="Elec" voltage="230.0"/>
     </carriers>
+    <mobilityFuelInformation>
+      <vehiclefuelefficiency vehicleType="CAR" fuel="ELECTRICITY"/>
+    </mobilityFuelInformation>
   </energySystemInformation>
+  <parties>
+    <party owns="EN1" id="DSO1" name="DSO1"/>
+    <party id="Municipality1" name="Municipality1" ownsArea="ARG1"/>
+  </parties>
 </esdl:EnergySystem>
