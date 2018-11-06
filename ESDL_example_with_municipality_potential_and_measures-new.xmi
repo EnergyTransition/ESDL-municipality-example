@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<esdl:EnergySystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:esdl="http://www.tno.nl/esdl/1809" xsi:schemaLocation="http://www.tno.nl/esdl/1809 ../esdl/model/esdl.ecore" name="ESDL Voorbeeld Gemeente XXX" description="Voorbeeld voor ESDL beschrijving van een gemeente op een redelijk hoog abstractieniveau">
+<esdl:EnergySystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:esdl="http://www.tno.nl/esdl" name="ESDL Voorbeeld Gemeente XXX" description="Voorbeeld voor ESDL beschrijving van een gemeente op een redelijk hoog abstractieniveau">
   <sector>GEBOUWDE_OMGEVING</sector>
   <measures>
     <asset xsi:type="esdl:WindTurbine" id="WT3MWSEA1" name="WindTurbine 3MW at Sea" shortName="WT3MWSEA" description="" fullLoadHours="6000" power="3000000.0" rotorDiameter="50.0" height="100.0">
@@ -7,34 +7,56 @@
         <investmentCosts xsi:type="esdl:SingleValue" name="Investment costs wind turbine at sea" id="ICWTAS" value="1.2E7"/>
       </costInformation>
     </asset>
-    <asset xsi:type="esdl:GeothermalSource" id="GTS1" name="Geothermal Source" shortName="GTS" description="Geothermal Source" fullLoadHours="8600" geothermalSourceType="HEAT" COP="30.0" aquiferTemperature="90.0" outputPower="1.2E7">
+    <asset xsi:type="esdl:GeothermalSource" id="GTS1" name="Geothermal Source" shortName="GTS" description="Geothermal Source" fullLoadHours="8600" power="1.2E7" geothermalSourceType="HEAT" COP="30.0" aquiferTemperature="90.0">
       <costInformation>
         <investmentCosts xsi:type="esdl:SingleValue" name="Investment costs geothermal source" id="ICGTS" value="1.5E7"/>
       </costInformation>
     </asset>
   </measures>
   <instance id="Inst1" name="EnergieSysteemInstantie" description="" detailLevel="MUNICIPALITY">
-    <area id="ARR1" name="Region 1" scope="REGION" potentials="GPA">
+    <area id="ARR1" name="Region 1" scope="REGION" potential="GPA">
+      <asset xsi:type="esdl:GasNetwork" id="GN1" name="Gas Network" owner="GasNetworkOwner">
+        <port xsi:type="esdl:InPort" id="GasNetworkToGasSource" connectedTo="GasSourceToGasNetwork"/>
+        <port xsi:type="esdl:OutPort" id="GNetwToH1" connectedTo="H1GCIN"/>
+        <port xsi:type="esdl:OutPort" id="GNetwToH2" connectedTo="H2GCIN"/>
+        <port xsi:type="esdl:OutPort" id="GNetwToG2H2" connectedTo="G2H2IN"/>
+        <port xsi:type="esdl:OutPort" id="GNetwToPLGen" connectedTo="PLGENIN"/>
+      </asset>
+      <asset xsi:type="esdl:ElectricityNetwork" id="EN1" name="Electricity Network" isOwnedBy="DSO1" owner="ElectricityNetworkOwner">
+        <port xsi:type="esdl:InPort" id="Omgeving" connectedTo="ElecSourceOut"/>
+        <port xsi:type="esdl:InPort" id="ENetworkToPVParc1" connectedTo="PVParc1ToENetwork"/>
+        <port xsi:type="esdl:InPort" id="ENetworkToPVParc2" connectedTo="PVParc2ToENetwork"/>
+        <port xsi:type="esdl:OutPort" id="ENetwToH1" connectedTo="H1ECIN"/>
+        <port xsi:type="esdl:OutPort" id="ENetwToH2" connectedTo="H2ECIN"/>
+        <port xsi:type="esdl:OutPort" id="ENetwToH3" connectedTo="H3ECIN"/>
+        <port xsi:type="esdl:InPort" id="ENetwToFC" connectedTo="FCEOUT"/>
+        <port xsi:type="esdl:InPort" id="ENetwToPLGen" connectedTo="PLGENOUT"/>
+        <port xsi:type="esdl:InPort" id="ENetwToBattery" connectedTo="BATOUT"/>
+        <port xsi:type="esdl:OutPort" id="EN1_OutPort10" connectedTo="MobilityDemand10_InPort2"/>
+      </asset>
+      <asset xsi:type="esdl:PowerPlant" id="PLGEN1" name="Peakload Generator" owner="PieklastGeneratorOwner" efficiency="0.75" maxLoad="9" effMaxLoad="0.9" effMinLoad="0.1">
+        <port xsi:type="esdl:InPort" id="PLGENIN" connectedTo="GNetwToPLGen"/>
+        <port xsi:type="esdl:OutPort" id="PLGENOUT" connectedTo="ENetwToPLGen"/>
+      </asset>
+      <asset xsi:type="esdl:Battery" id="BATT1" name="Battery" owner="BatteryOwner" capacity="2000.0" maxChargeRate="200.0" maxDischargeRate="200.0">
+        <port xsi:type="esdl:OutPort" id="BATOUT" connectedTo="ENetwToBattery"/>
+      </asset>
+      <asset xsi:type="esdl:PVParc" id="PVP2" name="Solar Parc 2" owner="ZonneparkVliegveldOwner" power="3.0">
+        <port xsi:type="esdl:OutPort" id="PVParc2ToENetwork" connectedTo="ENetworkToPVParc2"/>
+        <port xsi:type="esdl:InPort">
+          <profile xsi:type="esdl:InfluxDBProfile" name="SolarParc2Profile" profileType="ENERGY_IN_TJ" multiplier="10.0" host="http://localhost" port="8086" database="energy_profiles" measurement="sun-perc-2015-15min" field="percentage"/>
+        </port>
+      </asset>
+      <asset xsi:type="esdl:PVParc" id="PVP1" name="Solar Parc 1" owner="ZonneparkVliegveldOwner" power="6.0">
+        <port xsi:type="esdl:OutPort" id="PVParc1ToENetwork" connectedTo="ENetworkToPVParc1"/>
+        <port xsi:type="esdl:InPort">
+          <profile xsi:type="esdl:InfluxDBProfile" name="SolarParc1Profile" profileType="ENERGY_IN_TJ" multiplier="20.0" host="http://localhost" port="8086" database="energy_profiles" measurement="sun-perc-2015-15min" field="percentage"/>
+        </port>
+      </asset>
+      <asset xsi:type="esdl:MobilityDemand" id="MobilityDemand10" name="EV Demand" fuelType="ELECTRICITY">
+        <port xsi:type="esdl:InPort" id="MobilityDemand10_InPort2" carrier="Elec" connectedTo="EN1_OutPort10"/>
+      </asset>
       <area id="ARG1" name="Municipality XXX" scope="MUNICIPALITY" type="LAND" isOwnedBy="Municipality1">
-        <asset xsi:type="esdl:GasNetwork" id="GN1" name="Gas Network" owner="GasNetworkOwner">
-          <port xsi:type="esdl:InPort" id="GasNetworkToGasSource" connectedTo="GasSourceToGasNetwork"/>
-          <port xsi:type="esdl:OutPort" id="GNetwToH1" connectedTo="H1GCIN"/>
-          <port xsi:type="esdl:OutPort" id="GNetwToH2" connectedTo="H2GCIN"/>
-          <port xsi:type="esdl:OutPort" id="GNetwToG2H2" connectedTo="G2H2IN"/>
-          <port xsi:type="esdl:OutPort" id="GNetwToPLGen" connectedTo="PLGENIN"/>
-        </asset>
-        <asset xsi:type="esdl:PVParc" id="PVP1" name="Solar Parc 1" owner="ZonneparkVliegveldOwner" power="6.0">
-          <port xsi:type="esdl:OutPort" id="PVParc1ToENetwork" connectedTo="ENetworkToPVParc1"/>
-          <port xsi:type="esdl:InPort">
-            <profile xsi:type="esdl:InfluxDBProfile" name="SolarParc1Profile" profileType="ENERGY_IN_TJ" multiplier="20.0" host="http://localhost" port="8086" database="energy_profiles" measurement="sun-perc-2015-15min" field="percentage"/>
-          </port>
-        </asset>
-        <asset xsi:type="esdl:PVParc" id="PVP2" name="Solar Parc 2" owner="ZonneparkVliegveldOwner" power="3.0">
-          <port xsi:type="esdl:OutPort" id="PVParc2ToENetwork" connectedTo="ENetworkToPVParc2"/>
-          <port xsi:type="esdl:InPort">
-            <profile xsi:type="esdl:InfluxDBProfile" name="SolarParc2Profile" profileType="ENERGY_IN_TJ" multiplier="10.0" host="http://localhost" port="8086" database="energy_profiles" measurement="sun-perc-2015-15min" field="percentage"/>
-          </port>
-        </asset>
         <asset xsi:type="esdl:AggregatedBuilding" id="Neighbourhood6" name="Neighbourhood 6" owner="HouseOfResidents">
           <asset xsi:type="esdl:EConnection" id="H1EC" name="E Connection" owner="HouseOfResidents">
             <port xsi:type="esdl:InPort" id="H1ECIN" connectedTo="ENetwToH1"/>
@@ -122,28 +144,6 @@
             <port xsi:type="esdl:OutPort" id="G2H2OUT" connectedTo="FCIN"/>
           </asset>
         </asset>
-        <asset xsi:type="esdl:PowerPlant" id="PLGEN1" name="Peakload Generator" owner="PieklastGeneratorOwner" efficiency="0.75" maxLoad="9" effMaxLoad="0.9" effMinLoad="0.1">
-          <port xsi:type="esdl:InPort" id="PLGENIN" connectedTo="GNetwToPLGen"/>
-          <port xsi:type="esdl:OutPort" id="PLGENOUT" connectedTo="ENetwToPLGen"/>
-        </asset>
-        <asset xsi:type="esdl:Battery" id="BATT1" name="Battery" owner="BatteryOwner" capacity="2000.0" maxChargeRate="200.0" maxDischargeRate="200.0">
-          <port xsi:type="esdl:OutPort" id="BATOUT" connectedTo="ENetwToBattery"/>
-        </asset>
-        <asset xsi:type="esdl:ElectricityNetwork" id="EN1" name="Electricity Network" isOwnedBy="DSO1" owner="ElectricityNetworkOwner">
-          <port xsi:type="esdl:InPort" id="Omgeving" connectedTo="ElecSourceOut"/>
-          <port xsi:type="esdl:InPort" id="ENetworkToPVParc1" connectedTo="PVParc1ToENetwork"/>
-          <port xsi:type="esdl:InPort" id="ENetworkToPVParc2" connectedTo="PVParc2ToENetwork"/>
-          <port xsi:type="esdl:OutPort" id="ENetwToH1" connectedTo="H1ECIN"/>
-          <port xsi:type="esdl:OutPort" id="ENetwToH2" connectedTo="H2ECIN"/>
-          <port xsi:type="esdl:OutPort" id="ENetwToH3" connectedTo="H3ECIN"/>
-          <port xsi:type="esdl:InPort" id="ENetwToFC" connectedTo="FCEOUT"/>
-          <port xsi:type="esdl:InPort" id="ENetwToPLGen" connectedTo="PLGENOUT"/>
-          <port xsi:type="esdl:InPort" id="ENetwToBattery" connectedTo="BATOUT"/>
-          <port xsi:type="esdl:OutPort" id="EN1_OutPort10" connectedTo="MobilityDemand10_InPort2"/>
-        </asset>
-        <asset xsi:type="esdl:MobilityDemand" id="MobilityDemand10" name="EV Demand" fuelType="ELECTRICITY">
-          <port xsi:type="esdl:InPort" id="MobilityDemand10_InPort2" carrier="Elec" connectedTo="EN1_OutPort10"/>
-        </asset>
       </area>
       <area id="AROG" name="Surrounding Area" scope="MUNICIPALITY" type="LAND">
         <asset xsi:type="esdl:GenericProducer" id="UGS1" name="UnlimitedGasSource" owner="UGSOwner">
@@ -156,15 +156,19 @@
     </area>
   </instance>
   <potentials>
-    <potential xsi:type="esdl:GeothermalPotential" areas="ARR1" id="GPA" name="Example Geothermal Potential" temperature="90" depth="3000" potential="GOOD" powerPerDoublet="GOOD_GT5MWTH"/>
-    <potential xsi:type="esdl:WindPotential" id="WASP" name="Wind at Sea Potential" windspeed="80" height="120"/>
+    <potentials xsi:type="esdl:GeothermalPotentials">
+      <potential xsi:type="esdl:GeothermalPotential" id="GPA" name="Example Geothermal Potential" area="ARR1" temperature="90" depth="3000" potential="GOOD" powerPerDoublet="GOOD_GT5MWTH"/>
+    </potentials>
+    <potentials xsi:type="esdl:WindPotentials">
+      <potential id="WASP" name="Wind at Sea Potential" value="80.0" height="120"/>
+    </potentials>
   </potentials>
   <energySystemInformation>
     <carriers>
-      <carrier xsi:type="esdl:EnergyCarrier" name="NaturalGas" id="NaturalGas" energyContentPerUnit="3.837E7" emissionPerUnit="5.6E-8" energyCarrierType="FOSSIL" stateOfMatter="GASEOUS">
+      <carrier xsi:type="esdl:EnergyCarrier" name="NaturalGas" id="NaturalGas" energyContent="3.837E7" emission="5.6E-8" energyCarrierType="FOSSIL" stateOfMatter="GASEOUS">
         <cost xsi:type="esdl:SingleValue" name="PricePerUnitNaturalGas" profileType="MONEY_IN_EUR" id="sv1" value="1.0"/>
       </carrier>
-      <carrier xsi:type="esdl:EnergyCarrier" name="Hydrogen" id="Hydrogen" energyContentPerUnit="1.2E8" energyCarrierType="RENEWABLE" stateOfMatter="GASEOUS">
+      <carrier xsi:type="esdl:EnergyCarrier" name="Hydrogen" id="Hydrogen" energyContent="1.2E8" energyCarrierType="RENEWABLE" stateOfMatter="GASEOUS">
         <cost xsi:type="esdl:SingleValue" name="PricePerUnitHydrogen" profileType="MONEY_IN_EUR" id="sv2" value="0.5"/>
       </carrier>
       <carrier xsi:type="esdl:GasCommodity" name="Natural Gas" id="Gas" pressure="8.0"/>
@@ -172,8 +176,17 @@
       <carrier xsi:type="esdl:ElectricityCommodity" name="Electricity" id="Elec" voltage="230.0"/>
     </carriers>
     <mobilityFuelInformation>
-      <vehiclefuelefficiency vehicleType="CAR" fuel="ELECTRICITY"/>
+      <vehicleFuelEfficiency vehicleType="CAR" fuel="ELECTRICITY"/>
     </mobilityFuelInformation>
+    <quantityAndUnits>
+      <quantityAndUnit physicalQuantity="ENERGY" multiplier="TERRA" unit="JOULE" description="Energy in TJ" id="QaU1"/>
+    </quantityAndUnits>
+    <sectors>
+      <sector id="Sector1" name="Built Environment"/>
+      <sector id="Sector2" name="Industry"/>
+      <sector id="Sector3" name="Agri"/>
+      <sector id="Sector4" name="Mobility"/>
+    </sectors>
   </energySystemInformation>
   <parties>
     <party owns="EN1" id="DSO1" name="DSO1"/>
